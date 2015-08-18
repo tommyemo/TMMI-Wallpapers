@@ -3,9 +3,39 @@
 	[ 
 		{
 			"author": "Tom Wellington",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesBlue.png",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/lines.png",
 			"name": "Lines"
 		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/East%20Branch.jpg",
+			"name": "East Branch"
+		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/Skyline.png",
+			"name": "Skyline"
+		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/Springish-01.png",
+			"name": "Springish"
+		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/buildings.jpg"
+			"name": "Heads Up"
+		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://github.com/TWellington/TMMI-Wallpapers/blob/master/forest_one.png"
+			"name": "Fallen"
+		}
 		 
 	]
 } 
