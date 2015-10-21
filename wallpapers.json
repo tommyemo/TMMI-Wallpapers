@@ -2,15 +2,45 @@
 "wallpapers": 
 	[ 
 		{
-			"author": "Joshua M.",
-			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/giraffe.jpg",
-			"name": "Giraffe"
+			"author" : "Ryan Kelly",
+			"url": "",
+			"name": "Grau-Du"
 		},
 		
 		{
 			"author": "Tom Wellington",
 			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/signage.png",
 			"name": "Signage"
+		},
+		
+		{
+			"author": "Ryan Kelly",
+			"url": "",
+			"name": "Newark"
+		},
+		
+		{
+			"author": "Ryan Kelly",
+			"url": "",
+			"name": "Tuamontus"
+		},
+		
+		{
+			"author": "Ryan Kelly",
+			"url": "",
+			"name": "Ngari"
+		},
+		
+		{
+			"author": "Ryan Kelly",
+			"url": "",
+			"name": "Fdreik"
+		},
+		
+		{
+			"author": "Joshua M.",
+			"url": "https://raw.githubusercontent.com/TWellington/TMMI-Wallpapers/master/giraffe.jpg",
+			"name": "Giraffe"
 		},
 		
 		{
